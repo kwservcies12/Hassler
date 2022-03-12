@@ -1,0 +1,43 @@
+.bodyContainer {
+    background-image: url(C:\Users\kwser\hassler\src\images\h1.jpg);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    /* background-color: red; */
+    justify-content: center;
+    background-repeat: nopreat;
+    background-size: cover;
+  
+
+}
+
+.title {
+    display: flex;
+    color: red;
+    width: 100vw;
+    height: 5vh;
+    font-size: 7vh;
+    justify-content: center;
+    margin-top: -34vh;
+    font-weight: 600;
+    margin-left: 24vw;
+    transform-origin: 0 0;
+    transform: rotate(33deg);
+    position: fixed;
+    
+}
+
+.Mess {
+    display: flex;
+    /* background-color: blue; */
+    height: 20vh;
+    margin-top: 16vh;
+    justify-content: center;
+    font-size: 5vh;
+    color: crimson;
+    font-weight: 600;
+    margin-left: -22vh;
+    margin-right: 69vw;
+    transform-origin: 0 0;
+    transform: rotate(-9deg);
+}

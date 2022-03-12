@@ -1,0 +1,29 @@
+.NavBarContainer {
+  display: flex;
+  width: 100vw;
+  height: 6vh;
+  background-image: url(C:\Users\kwser\hassler\src\images\metal1.jpg);
+  background-color: transparent;
+  position: fixed;
+  ;
+  margin-top: 0vh;
+  z-index: 1;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  width: 85vw;
+  text-decoration: none;
+  list-style-type: none;
+  background-color: transparent;
+  justify-content: space-between;
+  z-index: 1;
+  font-size: 4vh;
+}
+
+
+
+li a {
+    color: crimson;
+}
